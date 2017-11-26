@@ -1,0 +1,24 @@
+#N canvas 908 490 449 443 10;
+#X obj 108 62 hsl 100 15 60 1000 0 0 empty empty empty -2 -8 0 10 -260097
+-1 -1 5700 1;
+#X floatatom 105 91 5 0 0 0 - - -;
+#X obj 105 123 osc~;
+#X obj 107 303 dac~;
+#X floatatom 123 155 5 0 0 0 - - -;
+#X obj 124 182 dbtorms;
+#X floatatom 135 217 5 0 0 0 - - -;
+#X msg 298 329 \; pd dsp 0;
+#X msg 211 329 \; pd dsp 1;
+#X obj 105 257 *~ 0;
+#X text 369 23 11/22/2016;
+#X text 333 9 Andy Kim Junghoo;
+#X text 233 366 ON;
+#X text 319 365 OFF;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 2 0 9 0;
+#X connect 4 0 5 0;
+#X connect 5 0 6 0;
+#X connect 5 0 9 1;
+#X connect 9 0 3 0;
+#X connect 9 0 3 1;

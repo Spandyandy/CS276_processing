@@ -1,0 +1,16 @@
+#N canvas 1274 387 450 300 10;
+#X obj 85 40 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 85 75 random 800;
+#X obj 85 110 + 200;
+#X floatatom 85 147 5 0 0 0 - - -;
+#X obj 86 181 osc~;
+#X obj 86 213 *~ 0.7;
+#X obj 86 244 dac~;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
+#X connect 3 0 4 0;
+#X connect 4 0 5 0;
+#X connect 5 0 6 0;
+#X connect 5 0 6 1;

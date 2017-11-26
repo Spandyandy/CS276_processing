@@ -1,0 +1,22 @@
+VNET   	 21Vianet Group Inc. ADC        7.82	+0.03 	+0.39 	7.93 	7.78 	420,065	
+AGTK   	 Agritek Holdings Inc.      	0.01	+0.00 	+6.06 	0.01 	0.01 	4,510,931	
+AKAM   	 Akamai Technologies Inc.      	55.31	+0.36 	 +0.66 	55.74 	55.07 	1,256,995	
+BIDU   	 Baidu Inc. ADR	181.49 	+1.69	+0.94	182.32 	180.88 	1,308,733	
+BCOR   	 Blucora Inc.	11.49  	+0.21	+1.86	11.51 	11.28	147,227	
+WIFI   	 Boingo Wireless Inc.  	9.92	+0.16	+1.64 	9.98 	9.73 	95,828	
+BRNW   	 Brainybrawn Inc.     	0.00	0.00	0.00 	0.00 	0.00 	800,000	
+CARB   	 Carbonite Inc.	14.77 	-0.02	-0.14 	15.00 	14.75  	409,865	
+JRJC   	 China Finance Online Co. Ltd. ADR   	4.32 	+0.07 	+1.65 	4.33 	4.21 	22,448	
+CCIH   	 ChinaCache International Holdings Ltd. ADR    	3.89 	+0.11 	+2.91 	3.99 	3.82 	29,200	
+CHICF  	 ChitrChatr Communications Inc.	0.04  	+0.02  	+71.31 	0.04 	0.04 	1,700	
+CNV   	 Cnova N.V.   	5.40   	+0.02   	+0.37   	5.40   	5.38  	8,134	
+CCOI   	 Cogent Communications Holdings Inc.	35.41  	+0.74  	+2.13  	35.57  	34.71  	494,358	
+CXDO   	 Crexendo Inc.	1.49  	+0.09	+6.43	 1.49	 1.49	 900	
+CRWG   	 CrowdGather Inc. 	0.01	-0.00 	 -1.45  	0.01  	0.00	  281,466	
+ELNK   	 EarthLink Holdings Corp. 	6.28 	0.00 	0.00 	6.38	 6.26	 208,260	
+EATR   	 Eastern Asteria Inc. 	 0.00	 0.00 	0.00	0.00	 0.00	 1,919,968	
+EDXC   	 ENDEXX Corp. 	0.04	 +0.00	 +2.70  	0.04	 0.04	 375,239	
+ENV   	 Envestnet Inc.	 36.97	 +0.68	 +1.87	 37.34	 36.64	 248,794	
+FB   	 Facebook Inc. Cl A	  130.24	  +1.25 	+0.97 	130.70	 129.20	 15,138,720	
+FLPC 	 First Liberty Power Corp.    	0.00    	+0.00 	+100.00 	0.00	 0.00	 9,861,393	
+FZRO   	 FlashZero Corp.    	0.00	 -0.00  	-20.00	 0.00	 0.00	 100,000	

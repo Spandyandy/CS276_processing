@@ -1,0 +1,4 @@
+void setup(){
+  encode();
+  decode();
+}
